@@ -1,0 +1,48 @@
+input{
+	border-radius: 5px;
+}
+#newItem{
+	background: gray;
+	padding: 10px;
+	margin: 10px;
+	border-radius: 5px;
+	text-align: center;
+}
+#notification{
+	width: 200px;
+	position: absolute;
+	bottom: 0;
+	right: 0;
+	padding: 10px;
+	margin: 10px;
+	background: #FFCC00;
+	border-radius: 5px;
+}
+#minimal{
+	height:30px;
+}
+.item{
+	padding:10px;
+	margin:5px auto;
+	width: 95%;
+	text-align: center;
+	background: #CCCCCC;
+	border-radius: 5px;
+}
+
+.label{
+	width: 200px;
+	display: inline-block;
+}
+.type{
+	width: 50px;
+	display: inline-block;
+}
+.duration{
+	width: 200px;
+	display: inline-block;
+}
+.delButton{
+	width: 50px;
+	display: inline-block;
+}
