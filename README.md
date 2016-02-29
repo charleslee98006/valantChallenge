@@ -19,8 +19,9 @@ Assumptions:
 
 Next Step:
 
-1.Expiration and notification
-	I have added the countdown feature but was not able to get the feature working in time of the challenge. The next step to completing this would be to use the countdown jQuery plugin and add it to each item in the inventory list. There will also be a function that will be called with the countdown reaches to zero. Once that happens, the user will be notified that the item is expired and a yellow color code will highlight the background of the expired item.
+1.Expiration and notification (Status: Finished)
+	I have added the countdown feature but was not able to get the feature working in time of the challenge. The next step to completing this would be to use the countdown jQuery plugin and add it to each item in the inventory list. There will also be a function that will be called with the countdown reaches to zero. Once that happens, the user will be notified that the item is expired and a yellow color code will highlight the background of the expired item. 
+
 
 2. Tests
 
