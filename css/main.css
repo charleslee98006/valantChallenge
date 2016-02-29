@@ -1,3 +1,6 @@
+html{
+	font-family: Arial, 'Helvetica Neue', Helvetica, sans-serif;
+}
 input{
 	border-radius: 5px;
 }
@@ -36,6 +39,7 @@ input{
 }
 .type{
 	width: 50px;
+	margin: 0px 20px;
 	display: inline-block;
 }
 .duration{
@@ -44,5 +48,6 @@ input{
 }
 .delButton{
 	width: 50px;
+	margin: 0px 20px;
 	display: inline-block;
 }
